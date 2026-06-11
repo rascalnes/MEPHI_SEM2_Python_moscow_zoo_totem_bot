@@ -205,9 +205,10 @@ async def handle_answer(update: Update, context):
 
     # Отправка следующего вопроса через секунду
     if user_data["current_question"] < len(QUESTIONS):
-        context.application.create_task(delayed_question(query, context, user_id))
+        # Убираем sleep и отправляем новый вопрос напрямую
+        await send_question(update, context, user_id)
     else:
-        await calculate_and_show_result(query, context, user_id)
+        await calculate_and_show_result(update, context, user_id)
 
 
 async def delayed_question(query, context, user_id):
