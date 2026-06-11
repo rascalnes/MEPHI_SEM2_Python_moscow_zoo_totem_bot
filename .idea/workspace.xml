@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="16cce9ea-2b49-4447-b334-f2d273c3f30a" name="Changes" comment="Init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/quiz_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/flamingo.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/flamingo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lynx.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lynx.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/manul.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/manul.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/penguin.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/penguin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polar_bear.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar_bear.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="003" />
+        <entry key="$PROJECT_DIR$" value="004" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,7 +61,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "005",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
