@@ -137,3 +137,4 @@ def calculate_totem(user_answers):
     # Возвращаем животное с максимальными баллами
     totem = max(scores, key=scores.get)
     return totem, scores
+
