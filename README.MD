@@ -75,4 +75,49 @@ git clone https://github.com/rascalnes/MEPHI_SEM2_Python_moscow_zoo_totem_bot
 cd MEPHI_SEM2_Python_moscow_zoo_totem_bot
 ```
 
+### 2. Создание и активация виртуального окружения
+
+Windows:
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+```
+
+### 3. Установка зависимостей
+
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+```
+
+Linux/Mac:
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+```bash
+
+pip install -r requirements.txt
+```
+
+### 4. Создание бота в Telegram
+
+* Откройте Telegram и найдите @BotFather
+* Отправьте команду /newbot
+* Придумайте имя бота (например, Московский зоопарк бот)
+* Придумайте username бота (должен заканчиваться на bot, например, moscow_zoo_totem_bot)
+* Сохраните полученный токен
+
+### 5. Настройка конфигурации
+
+Создайте файл config.py на основе примера:
+# config.py
+# Токен бота (получите у @BotFather)
+BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+
+# Контактные данные зоопарка (для примера)
+ZOO_CONTACT_EMAIL = "opeka@moscowzoo.ru"
+ZOO_CONTACT_PHONE = "+7 (499) 255-00-93"
+ZOO_MANAGER_USERNAME = "moscowzoo_manager"
 

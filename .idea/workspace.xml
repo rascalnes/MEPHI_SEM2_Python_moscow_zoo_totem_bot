@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16cce9ea-2b49-4447-b334-f2d273c3f30a" name="Changes" comment="Init">
+    <list default="true" id="16cce9ea-2b49-4447-b334-f2d273c3f30a" name="Changes" comment="- README.MD">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/flamingo.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/flamingo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/lynx.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lynx.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/manul.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/manul.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/penguin.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/penguin.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/polar_bear.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/polar_bear.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="004" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,7 +56,8 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "005",
+    "git-widget-placeholder": "readme/001",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -89,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781193010393</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="- README.MD">
+      <option name="closed" value="true" />
+      <created>1781200205585</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1781200205585</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="- README.MD" />
+    <option name="LAST_COMMIT_MESSAGE" value="- README.MD" />
   </component>
 </project>
