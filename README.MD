@@ -1,5 +1,8 @@
 # 🐾 Тотемное животное Московского зоопарка — Telegram бот-викторина
 
+## Имя бота
+@nes_moscow_zoo_totem_bot
+
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://telegram.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
